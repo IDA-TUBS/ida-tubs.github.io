@@ -1,4 +1,11 @@
 # Institute of Computer and Network Engineering, TU Braunschweig
+
+![IDA Logo](/images/IDA-Logo-de.png)
+
+## Artifacts
+
+You can find related publications and artifacts on our [artifacts page](https://www.ida.ing.tu-bs.de/en/artifacts)
+
 ## Repository Overview
 
 ### PyCPA
