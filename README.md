@@ -1,4 +1,4 @@
-# Institute of Computer and Network Engineering, TU Braunschweig
+# Institute of Computer and Network Engineering,  TU Braunschweig
 
 ![IDA Logo](/images/IDA-Logo-de.png)
 
